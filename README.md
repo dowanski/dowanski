@@ -6,23 +6,21 @@ You can call me Dowan. I build software, products, and the systems that help
 people use them. I enjoy listening to an idea, finding the questions behind it,
 and working out how the pieces can become something useful.
 
-Much of my work happens through close collaboration with AI. I shape the
-direction, develop the working framework, and stay responsible for the
-decisions and results. I'm interested in making that collaboration clearer,
-more reliable, and useful beyond my own projects.
+I work closely with AI—from discovery through implementation—while staying
+responsible for the direction, decisions, and review.
 
 **[Website](https://dowanski.com) · [Reading Room](https://dowanski.com/reading-room) · [Get in touch](mailto:dowanski@pm.me)**
 
-## Sharing the way I work
+## The Dowanski Method
 
-**[The Dowanski Method](https://github.com/dowanski/dowanski-method)** is a practical Markdown system I'm sharing:
-QDI discovery, followed by adaptable documentation foundations for building
-with agents. It connects questions, current context, bounded work, evidence,
-and human review—with room for each project to find its own shape.
+An open-source [collection of Markdown templates](https://github.com/dowanski/dowanski-method)
+for planning and building with AI. Explore an idea through guided discovery,
+record the decisions, and give the next piece of work a clear scope and review point.
 
-I want it to be useful enough to pick up, understand, and make your own. I'm
-looking forward to seeing what others build with it, where it helps, and what
-their experience teaches me to improve.
+**[Try the latest release](https://github.com/dowanski/dowanski-method/releases/latest) · [See a worked example](https://github.com/dowanski/dowanski-method/blob/main/guides/worked-example.md)**
+
+I'm sharing what has helped in my own work, with room for others to adapt it.
+I'd like to hear what helps, what you change, and what we can make clearer.
 
 ## Selected work
 
@@ -41,7 +39,6 @@ Supabase/Postgres, Git, and Figma/FigJam.
 
 In the [Reading Room](https://dowanski.com/reading-room), I write about ideas,
 documentation, communication, and the ways our roles change as we build.
-The writing grows from experience and questions I'm still exploring.
 
 I'm interested in meeting people who care about useful tools, thoughtful design,
 and good collaboration. If something here connects with your work, I'd enjoy
